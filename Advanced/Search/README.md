@@ -25,9 +25,9 @@ Example:
 
 
 Command/Script to Run Problem 1: ________________ 
-Open Visual Studio or any other C++ compiler.
-Copy the code in .cpp file and paste it on compiler
-Run the program
+1. Open Visual Studio or any other C++ compiler.
+2. Copy the code in .cpp file and paste it on compiler
+3. Run the program
 
 ## Problem 2: Calculate The Frequency of Numbers in An Array
 ## Given an array of n elements return the array of maps with number keys
@@ -46,6 +46,6 @@ Questions:
 
 
 Command/Script to Run Problem 2: ________________ 
-Open Visual Studio or any other C++ compiler.
-Copy the code in .cpp file and paste it on compiler
-Run the program
+1. Open Visual Studio or any other C++ compiler.
+2. Copy the code in .cpp file and paste it on compiler
+3. Run the program
