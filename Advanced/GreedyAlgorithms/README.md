@@ -1,8 +1,8 @@
 # Greedy Algorithms:
 
 ## Problem 1: Find Minimum Absolute Difference of Adjacent Elements In An Array.
-## Given an array of elements find the minimum absolute difference
-## between adjacent elements in an array.
+Given an array of elements find the minimum absolute difference
+between adjacent elements in an array.
 
 Example:
     Input : arr[] = {10, 12, 13, 15, 10}
