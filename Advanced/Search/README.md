@@ -1,8 +1,8 @@
 # Search Problems:
 
 ## Problem 1: Given An Array and a target number Find all the Pairs the sum of which is equal to that target number.
-## Find all the pairs in an array the sum of which is equal to
-## the provided target number.
+ Find all the pairs in an array the sum of which is equal to
+ the provided target number.
 
 Example:
     Input : arr[] = {10, 12, 14, 16, 18}
