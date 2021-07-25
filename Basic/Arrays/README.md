@@ -40,6 +40,7 @@ Example:
 Questions:
 
     a. Can we use the rotLeft function written above to achieve this?
+       -Answer is in the problem file .cpp
 
     b. What will be the complexity of the program in terms of time if we
     solve it using rotLeft function?
