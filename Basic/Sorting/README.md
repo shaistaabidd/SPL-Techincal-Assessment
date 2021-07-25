@@ -46,7 +46,7 @@ Example:
 
 Questions:
 
-   Can we use the method DistributiveArray written above to achieve this?
+    Can we use the method DistributiveArray written above to achieve this?
    
      - Answer is in the problem file
 
