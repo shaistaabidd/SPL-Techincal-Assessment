@@ -47,6 +47,7 @@ Example:
 Questions:
 
    Can we use the method DistributiveArray written above to achieve this?
+   
      - Answer is in the problem file
 
 Command/Script to Run Problem 2: ________________ 
