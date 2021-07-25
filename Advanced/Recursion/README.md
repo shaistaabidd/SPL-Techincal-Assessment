@@ -9,6 +9,7 @@ Example:
     Output : 14
     Function Description
 
+
     Complete the function calMean with following details:
 
     calMean has the following parameter(s):
