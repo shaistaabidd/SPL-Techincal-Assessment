@@ -30,8 +30,8 @@ Command/Script to Run Problem 1: ________________
 3. Run the program
 
 ## Problem 2: Calculate The Frequency of Numbers in An Array
-## Given an array of n elements return the array of maps with number keys
-## mapped to the number of times they appeared in the array.
+Given an array of n elements return the array of maps with number keys
+mapped to the number of times they appeared in the array.
 
 Example:
 
