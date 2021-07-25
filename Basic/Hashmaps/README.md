@@ -33,6 +33,7 @@ Note: the order of the keys do not matter
 
 Example:
 
+
     Hashmap x  = {a:1,b:2,c:3}, Hashmap b={c:3,b:2,a:1} returns 1;
 
     Hashmap x'  = {a:1,b:2,d:3}, Hashmap b={x:3,c:2,a:1} returns 0;
