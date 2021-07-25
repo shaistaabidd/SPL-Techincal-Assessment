@@ -9,7 +9,8 @@ Example:
     returns 'WeAreYourTechnologyPartners'
 
 Questions:
-   Can we use the Tree data structure or hashing to optimize this?
+    Can we use the Tree data structure or hashing to optimize this?
+    
      - Answer is in the problem file .cpp
 
 Command/Script to Run Problem 2: ________________ 
