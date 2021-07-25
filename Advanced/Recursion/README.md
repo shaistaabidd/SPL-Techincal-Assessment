@@ -1,8 +1,8 @@
 # Recursion Problems:
 
 ## Problem 1: Calculate Mean of An Array using Recursion.
-## Given an array of elements find the mean of the elements
-## in that array using recursion.
+Given an array of elements find the mean of the elements
+in that array using recursion.
 
 Example:
     Input : arr[] = {10, 12, 14, 16, 18}
